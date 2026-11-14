@@ -1,0 +1,1 @@
+Upload index.html, style.css, and cv.pdf directly to the repository root. Enable GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
